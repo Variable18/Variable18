@@ -51,8 +51,9 @@ ML-powered language learning platform with adaptive quizzes, gamification, and p
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Variable18&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Variable18&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Variable18&show_icons=true&theme=tokyonight" height="180em"/>
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Variable18&layout=compact&theme=tokyonight" height="180em"/>
 </p>
 
 ---
