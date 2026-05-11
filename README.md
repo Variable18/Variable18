@@ -1,73 +1,82 @@
-# Hi 👋, I'm Vishruth
-
-### AI/ML & Full-Stack Developer | Building Intelligent Web Applications
-
----
-
-##  About Me
-
-- Computer Science Undergraduate at JSS Science and Technology University
-- Interested in AI, NLP, GenAI, and scalable backend systems
-- Building AI-powered legal analysis and repository documentation platforms
-- Exploring real-world AI integration in web applications
-- Passionate about Game Development and Interactive Experiences
-
----
-
-## Tech Stack
+<h1 align="center">Vishruth Gundool</h1>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NLP-FF6F61?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
+AI/ML Developer • Full-Stack Engineer • Building Intelligent Web Applications
 </p>
+
+---
+
+## About Me
+
+Computer Science undergraduate at JSS Science and Technology University with a strong interest in artificial intelligence, backend engineering, and intelligent web systems. I enjoy building applications that combine machine learning with practical user experiences, especially in areas involving NLP, automation, semantic search, and scalable APIs.
+
+My work focuses on creating production-oriented projects that solve real-world problems through AI integration and modern full-stack development.
+
+---
+
+## Technical Skills
+
+### Languages
+Python • JavaScript • C • C++ • Java • SQL
+
+### Frontend
+React.js • Vite • HTML • CSS • TailwindCSS
+
+### Backend
+Node.js • Express.js • FastAPI • REST APIs
+
+### Databases
+MongoDB • MySQL
+
+### AI / Machine Learning
+NLP • LangChain • Sentence Transformers • TF-IDF • Logistic Regression • Naive Bayes • spaCy
+
+### Tools & Technologies
+Git • GitHub • Docker • Postman • Cloudinary • Render • Vercel
 
 ---
 
 ## Featured Projects
 
-### 🔹 CaseCrux
-AI-powered legal document analysis platform with semantic search, multilingual translation, and automated summarization.
+### CaseCrux
+AI-powered legal document analysis platform designed for intelligent summarization, multilingual translation, semantic search, and legal document insights.
 
-### 🔹 SpecGen
-AI-powered repository analysis platform that automatically generates SDLC documentation from GitHub repositories.
-
-### 🔹 MuLangGo
-ML-powered language learning platform with adaptive quizzes, gamification, and progress tracking.
+**Tech Stack:** React.js, Node.js, Express.js, NLP, MongoDB
 
 ---
 
-##  GitHub Stats
+### SpecGen
+Repository analysis platform that automatically generates SDLC documentation, architecture understanding, and repository insights from GitHub projects.
+
+**Tech Stack:** TypeScript, Next.js, AI APIs, Repository Analysis
+
+---
+
+### LingoRush
+Gamified AI-powered language learning platform featuring adaptive quizzes, progress tracking, authentication, and machine learning-based difficulty analysis.
+
+**Tech Stack:** React.js, Express.js, MongoDB, Machine Learning
+
+---
+
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Variable18&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Variable18&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Variable18&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Variable18&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-##  Connect With Me
+## Connect
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/vishruth-gundool-5291a1294/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="left">
+<a href="https://www.linkedin.com/in/vishruth-gundool-5291a1294/" target="_blank">
+LinkedIn
 </a>
 
-<a href="https://github.com/Variable18">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Variable18" target="_blank">
+GitHub
 </a>
-
 </p>
-
-<!-- profile refresh -->
